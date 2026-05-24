@@ -153,4 +153,4 @@ Editorial guidelines:
 - [True Parents Legacy timeline](https://github.com/Jon-tplegacy/true-parents-legacy-timeline) — 4,936 geolocated historical events, 1920–2025
 - [Heavenly Calendar](https://github.com/Jon-tplegacy/Heavenly-Calendar) — Cheon Il Guk lunar calendar with Holy Days and Ahn Shil Il
 - [True Parents Legacy archive](https://tplegacy.net/) — full editorial archive
-- [Wikidata: True Parents Legacy](https://www.wikidata.org/wiki/Q138757400)
+
