@@ -1,0 +1,340 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "metadata": {
+    "title": "Mottos of True Parents — Annual Guidance of Sun Myung Moon and Hak Ja Han Moon",
+    "description": "Open dataset of the annual mottos (yearly providential themes) proclaimed by True Parents Sun Myung Moon and Hak Ja Han Moon, leaders of the Unification Movement, between 1960 and 2026. Each motto includes the English text, original Korean (where available), historical context, and reference image.",
+    "version": "1.0.0",
+    "datePublished": "2026-05-23",
+    "dateModified": "2026-05-23",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "homepage": "https://tplegacy.net/mottos/",
+    "repository": "https://github.com/Jon-tplegacy/Mottos-of-True-Parents",
+    "demo": "https://jon-tplegacy.github.io/Mottos-of-True-Parents/",
+    "creator": {
+      "name": "True Parents Legacy",
+      "url": "https://tplegacy.net/",
+      "wikidata": "Q138757400"
+    },
+    "totalMottos": 57,
+    "yearRange": {
+      "first": 1960,
+      "last": 2026
+    },
+    "coverage": {
+      "withKorean": 13,
+      "withImage": 25,
+      "withDetails": 22
+    },
+    "keywords": [
+      "True Parents mottos",
+      "Sun Myung Moon",
+      "Hak Ja Han Moon",
+      "annual mottos",
+      "Unification Movement",
+      "FFWPU",
+      "providential themes",
+      "True Parents guidance",
+      "Cheon Il Guk",
+      "yearly mottos"
+    ]
+  },
+  "schema": {
+    "mottos[]": "Array of annual mottos, one per year. Sorted by year ascending in source. Not every year between 1960 and 2026 has a motto — gaps exist for years where no formal annual motto was proclaimed.",
+    "mottos[].year": "Gregorian year (integer, 1960–2026). The year the motto was proclaimed for and observed during.",
+    "mottos[].motto_en": "English translation of the motto, as published in official FFWPU sources.",
+    "mottos[].motto_ko": "Original Korean text of the motto, where available. Optional.",
+    "mottos[].details": "Historical context, providential significance, and excerpts from True Parents' speeches explaining the motto. Optional.",
+    "mottos[].image": "Path to a representative image (typically the printed motto banner). Path is relative to tplegacy.net root; prefix with https://tplegacy.net when consuming standalone. Optional."
+  },
+  "mottos": [
+    {
+      "year": 1960,
+      "motto_en": "Let This Be the Year of the Best Result of Our Lives",
+      "motto_ko": "생애중 최대의 실적을 남기는 해가 되게 하자‘를 발표하심",
+      "details": " Externally, 1960 was the year when we removed Satan's accusation. In this period, we had to establish True Father's status as Messiah on the levels of one people and the nation. That year was a time when we received persecution from society. We were anxious for the time to come when we could freely convey God's Word. It was also the time when we had to take things back and make them God's. Let this be the year of the best result of our lives - means that we had to bring results and free ourselves from the condition of Satan's accusation. To be victorious, you have to reverse through indemnity all historical evil. In other words, you must restore the individual. That is the hope of humanity. You need to become sons and daughters of God by restoring yourselves as individuals, and you need to become children having the authority to judge Satan on God's behalf. (1968/01/01)(1968/12/01)"
+    },
+    {
+      "year": 1961,
+      "motto_en": "Let Us Become Father's Representative",
+      "details": "God created earth as the counterpart of heaven. He created the first human ancestors to become His substantial object partners, who can represent Him. God created human beings in His image after first creating all things as His symbolic images. If we look at all creation on a large scale, it is one entity. If we look at it on a smaller scale, it is composed of beings that each represent God. To stand in the position of His representative, we must have the ability to give a clear explanation concerning the Center. In other words, if we say we represent God, we have to be able to explain, \"What kind of being is God? What kind of relationship do I have with God?\" Don't forget that God and human beings were originally to be one body. God and human beings were meant to exist in an inseparable relationship as one body. If heaven is called the head of the body, we are the trunk of the body, and if heaven is called the trunk of the body, we are the limbs. We say that God cannot disconnect from us even if He wants to. (011-051, 1961/01/01)"
+    },
+    {
+      "year": 1962,
+      "motto_en": "Let us Have Something to Show and Be Proud Of",
+      "details": "What I mean is that we should become people who can show something to God and have pride in doing that. To do this we need to chase after the fleeing Satan all the way to the end. Now, since God wants to show off individuals and families who are doing these things, we must fight for this and be victorious. Only if we can achieve that can we become sons and daughters who connect the spiritual world and the physical world. We can be proud if we win the battle. You must fight for the restoration of God's family. In 1962, you must establish the standard you can be proud of. When in the fight, you must light upholding God and God's family at the center. Accordingly, you must be victorious. When fighting, you must fight in the toughest position. You must start from the most difficult and arduous position as a laborer or a king of beggars, climb up from there to the top, and subjugate them all. You must carry this out in a joint operation with True Parents. It is the time for True Parents and their children to work together in witnessing. We must be one family of Parents and children, armed and fighting side by side to create the heavenly family, tribe and people, ultimately restoring the entire world. From now on you must fight as families. (011-288, 1962/01/03)"
+    },
+    {
+      "year": 1963,
+      "motto_en": "Let Us Become a Victorious Subject",
+      "details": "The last three years were a period when we had to complete all the conditions to receive the inheritance as human beings. However, from 1963 we are going beyond that stage, and we will restore all things of creation. Therefore, we will continue to use the same motto for several years. We need to establish holy grounds. To do that we will have to buy land for the holy grounds, and once we have purchased it we absolutely must not sell it. When you choose a place to live, go live near a holy ground, and when you choose a place to be buried, be buried near a holy ground. To establish a holy ground, we must collect blood money to buy it. In other words, we must offer the blood money for which Jesus, who came as humanity's Parent, was sold. In order to become lords of creation, we must first be victorious. That victory must be centered on God. That is the greatest victory, and that is our standard. (012-119, 1963/01/01)"
+    },
+    {
+      "year": 1964,
+      "motto_en": "Let Us Become a Victorious Subject",
+      "details": "In carrying out our activities under this motto, first we must prepare our internal church resources, second we must establish clear goals, and third we must bring results as victors. We must satisfy these three conditions and be absolutely victorious. Don't advance recklessly, but first make all the necessary preparations. You need to know the enemy and discern the environment day and night; then you can implement your strategy. (019-167, 1968/01/01)"
+    },
+    {
+      "year": 1965,
+      "motto_en": "Let Us Become a Victorious Subject"
+    },
+    {
+      "year": 1966,
+      "motto_en": "Let Us Become a Victorious Subject"
+    },
+    {
+      "year": 1967,
+      "motto_en": "Let Us Become a Victorious Subject"
+    },
+    {
+      "year": 1968,
+      "motto_en": "Let Us Make an All-Out Advance",
+      "motto_ko": "전면적인 진격을 하자"
+    },
+    {
+      "year": 1969,
+      "motto_en": "All-Out Advance"
+    },
+    {
+      "year": 1970,
+      "motto_en": "The Victorious Unified Front",
+      "details": "We must run continuously throughout this year based on the motto I established, \"The victorious united front.\" During the first two years of the second seven-year course, I said that we have to move forward under the motto \"Charge forward with all our might.\" We had to charge forward with all our might in order to bring victory. This year we must do activity that rises to prominence in Asia and also in the world. I established the motto, \"The victorious united front\" because we have entered the era when we must fulfill that kind of responsibility. It is not easy to be victorious. God has been carrying out the providence of restoration solely to welcome this day of victory. Continuing down through 6,000 years of history, from Adam's family, through Noah's family, Moses' age, the age of John the Baptist and Jesus to today, God has been fighting with the single purpose of welcoming this one victorious time. (027-325, 1970/01/01)"
+    },
+    {
+      "year": 1971,
+      "motto_en": "Securing the Unified Foundation",
+      "details": "\"Our cherished hope is for unity.\" This means that on the basis of mind and body becoming one, husband and wife must become one, children and parents must become one, the family and tribe must become one, the tribe and the people must become one, and the people and the nation must become one. This is the unity that we are seeking. Because I wanted to establish this standard, I designated the motto for 1971 as \"Securing the foundation for unity.\" The foundation for unity is firmly established only when it spreads out from the individual level, to the family, tribe, people and nation. Only then will we establish a national-level foundation for God to achieve the unification of the Korean Peninsula. (044-065, 1971/05/05)"
+    },
+    {
+      "year": 1972,
+      "motto_en": "Safeguarding the Unified Front",
+      "details": "I established the motto for 1972 as \"Safeguarding the front line of unity.\" This motto means that this year will be the historical starting point for our church. Simply put, by establishing this motto, I am calling for us to secure the inner workings within the church. When an outsider takes responsibility for the whole of an organization and does whatever it takes to stabilize its inner workings, so that the inner workings become harmonious, the result is that the entire organization is elevated. Therefore, each and every member of the worldwide Unification Church must move in one direction according to the direction of that center. The more individuals, families, tribes, peoples and nations there are that move in this way, the more those individuals will be global, those families will be global, those tribes will be global, and those nations will be global. When this comes about, the kingdom of heaven will be created automatically and will be manifested globally. In safeguarding the front line of unity, there must be a philosophical foundation, an economic foundation and an activity foundation grounded in this basic principle. Otherwise the ideal of the kingdom of heaven will be impossible to achieve. Because I understood that beginning in 1972 you must carry out this mission, I decided on \"Safeguarding the front line of unity\" as the motto for this year. (052-236, 1972/01/01)"
+    },
+    {
+      "year": 1973,
+      "motto_en": "Safeguarding the Unified Front"
+    },
+    {
+      "year": 1974,
+      "motto_en": "Safeguarding the Unified Front"
+    },
+    {
+      "year": 1975,
+      "motto_en": "The Realization of the Kingdom of Heaven",
+      "details": "In 1975 we will proceed under the banner \"The realization of the kingdom of heaven.\" What must you do according to God's Will? From now, what is the fastest road? It is not to go around here and there and proselytize. Rather, I am telling all of you to return to your hometown. After you return to your hometown, you must work harder and witness with more sincerity than you ever did when you were witnessing in the outside world. If you make more effort, you will make progress. When you understand this, you have to follow the path to rally your clan, your tribe and your people, centering on your family. Beginning in 1975 this becomes the standard of the completion stage. Thus, the time is coming when you will be able to relate to your tribe on a horizontal level. Consequently, I believe the road before you will open rather easily from now. How much territory you are able to claim for the realization of the kingdom of heaven on earth will determine your ownership rights when you go to dwell in the heavenly kingdom. It will be given to anyone who takes action. You must take action centering on this new plan for the realization of the kingdom of heaven. (074-345, 1975/01/01)"
+    },
+    {
+      "year": 1976,
+      "motto_en": "The Realization of the Kingdom of Heaven through the Children of God",
+      "image": "/assets/built/motto/1976.webp",
+      "details": "The motto for 1976 is \"Realization of the kingdom of heaven by God's children.\" The realization of the kingdom of heaven comes about because of you -- not because of True Parents. Until 1975, we spoke of the realization of the kingdom of heaven only in a broad sense. But now, because it will be realized through you, God's children, I am speaking more concretely about how to realize the kingdom of heaven. When the universe revolves around the universal commitment to love, your overall sphere of influence unfolds to embrace everything. That is why, although you are but one individual, you can create the atmosphere of the kingdom of heaven in which your family and you can dwell. Your influence will connect to every level. Also, as the kingdom of heaven emerges in the tribal realm of the Unification Church, and as the kingdom of heaven emerges within the realm of the nation, on that basis the kingdom of heaven will be realized on earth. (083-227, 1976/02/08)"
+    },
+    {
+      "year": 1977,
+      "motto_en": "The Realization of the Kingdom of Heaven through Ideal Families",
+      "image": "/assets/built/motto/1977.webp",
+      "details": "The motto for 1977 is \"The kingdom of heaven on earth and ideal families.\" In other words, it is \"the realization of the kingdom of heaven through ideal families.\" What has been God's hope? The providence of restoration has been seeking one family that stands on the world level and does not receive Satan's accusation in the fallen world. Because of the Fall, we could not see the origin of the family in God's direct dominion. Therefore, a perfect family must emerge, one that is able to enter the realm where it can receive God's love directly. It must not have anything to do with the Fall and must not be subject to Satan's invasion. That is, we have to establish the original family that can be totally one with God. It must fulfill the ideal standard that should have been attained by Adam and Eve. Now in the Unification Church, we too are entering the family realm where we can receive the direct love of God. As these families multiply, we enter the time when the more Satan opposes us, the more it will benefit heaven. From now, the more opposition there is, the more Satan's world will crumble. In direct proportion to that opposition, we will advance and expand. (090-191, 1977/01/01)"
+    },
+    {
+      "year": 1978,
+      "motto_en": "The Realization of the Kingdom of Heaven through the Public Course",
+      "details": "The motto of the Unification Church for 1978 is \"Realization of the kingdom of heaven through the formula course.\" In order to bring this motto alive, the mother and father and sons and daughters, who are in a parent-child relationship, must be one in heart with God. The mother takes care of the children in a family, and leaders are in the position of the mother. Therefore, they must make that bond of heart with the members. Centering on this formula, you have to advance boldly. You must fight with boldness and courage. That is why I gave you this motto, and I am asking you to practice it centering on God's love. (097-305, 1978/03/26)"
+    },
+    {
+      "year": 1979,
+      "motto_en": "The Completion of the Kingdom of Heaven through Home Church",
+      "image": "/assets/built/motto/1979.webp",
+      "details": "The motto for 1979 is \"Building the kingdom of heaven through home church.\" The term \"home church\" was originally to have started in the Garden of Eden. When we talk about a church we are referring to religion, and we cannot exclude God from discussions about religion. If we interpret the Chinese characters for religion, they mean \"floor-like teaching.\" Religion is like the floor in a house. Among all teachings, it is the center, the principled teaching that provides all the fundamental rules. Therefore, if God were excluded, the cosmos would crumble. Religion is the foundation of the providence to build the house of a new cosmos. Religion is also like the ridge beam of a house. Even if you level the site, erect the pillars and complete everything for that house, if you do not put up the ridge beam, the house will not be complete. (102-229, 1979/01/01)"
+    },
+    {
+      "year": 1980,
+      "motto_en": "Home Church is the Base of the Kingdom of Heaven",
+      "details": "Where will members of the Unification Church go in the 1980s? From 1981 we must develop full-scale home church activities. By the end of the third seven-year course, we need to have fully developed home church, and everything in our church must be operated based on the home church system. This is what I see we have to do from the viewpoint of the Will. Accordingly, in 1979 you worked with the motto that was given at the beginning of that year, \"Home church and the completion of the kingdom of heaven.\" During this year, 1980, you will work with the motto \"Home church is the base of the kingdom of heaven.\" Without home church, the kingdom of heaven cannot be accomplished. Without it, we cannot accomplish our ultimate goal. This is why I am saying that home church is the base of the kingdom of heaven. What is the kingdom of heaven? The place we call the kingdom of heaven is a place where we can rest, where happiness dwells and where love dwells. It is a place of peace. When we rest, would we want to rest all alone, only by ourselves? Naturally we would want our parents, our children and our family to be resting there with us. Also, we would want our tribe and our people to be there. We would want even the entire world to be included in that place. However much we as individuals want to rest, if our own parents are not able to rest there with us, if our own spouse and children are not able to rest there with us, we will not be able to truly rest. Looking at the Unification Church, since you are attending True Parents, if they are in a position where they cannot rest, then the people who heed the direction of the True Parents also will not be able to rest. (106-266, 1980/01/01)"
+    },
+    {
+      "year": 1981,
+      "motto_en": "Home Church is My Kingdom of Heaven",
+      "details": "The motto for 1981 is \"Home church is my kingdom of heaven.\" You should think, as a Unification believer, \"I must accelerate my home church activities.\" Should you as messiahs stay at home? Just as Jesus went out from his home for the sake of carrying out his mission, you also must go out from your home. In 1981 you must all do home church, because this is the time for it. I have been teaching you about home church for three years, 1978, 1979 and 1980. I have taught you about it at every opportunity. Now the preparations have been completed. Therefore, you must go out from your home and do home church work. (111-339, 1981/03/09)"
+    },
+    {
+      "year": 1982,
+      "motto_en": "Victory of Home Church",
+      "details": "The motto for 1982 is \"Victory of home church.\" Home church is necessary because fallen parents came about. Jesus came as a parent for the sake of restoring those parents, but instead he died because the family of Zechariah and the family of Joseph failed to unite. This must be indemnified. If we do not indemnify that sin, we cannot enter the heavenly kingdom. Will home church be the end of our work? Will it be the final level we need to reach? We will need home church to expand to churches encompassing the tribe, the people, the nation, the world and the cosmos. (116-192, 1982/01/01)"
+    },
+    {
+      "year": 1983,
+      "motto_en": "Home Church is Our Land of Settlement",
+      "image": "/assets/built/motto/1983.webp",
+      "details": "The motto for 1983 is \"Home church is our land of settlement.\" This is not just a daydream. Home church was set up and we have been advancing it for this very purpose. As a global citizen in the future, in order to enter the kingdom of heaven and bring others with you, you need to become a teacher of the Unification Principle, a teacher who works to unite religions and overcome communism with Unification Thought. Those who enter the kingdom of heaven on earth transcend religion and communism. The mainstream teaching for this is not knowledge, power or money. It is love. Up to now human love has been self-centered love, but God's love is sacrificial love. This is a simple truth. This is why we as True Parents have been sacrificing to this day in America. We are doing it to plant seeds of love. We are doing it to leave behind the tradition of loving the enemy. (123-300, 1983/01/06)"
+    },
+    {
+      "year": 1984,
+      "motto_en": "Creation and Building of the Fatherland",
+      "details": "The motto for 1984 is \"Creating and building the fatherland.\" We all belong to our own nations in the world, but they are not places where we can settle peacefully. We are wandering like modern-day gypsies. All of us are still hoping to settle in the land of eternal happiness, and looking forward eagerly to the fatherland, which is True Parents' nation. Recently, we could see that because of True Parents, Christians from many denominations are participating in activities for harmony and unity. Imagine the scene in the Last Days when they all come to me and ask earnestly for forgiveness for their mistakes of the past. Who among you will be there to participate in True Parents' complete victory? The difference between participating and not participating is as great as that between heaven and earth. The year 1984 marks an extremely important turning point in providential history. We are running along the highway of victory. In March 1983, I organized mobile teams for outreach throughout America, mobilizing all members. That evangelical work was a huge, new, far-reaching undertaking. It was for the sake of establishing our fatherland, True Parents' nation. (130-278, 1984/02/07)"
+    },
+    {
+      "year": 1985,
+      "motto_en": "Creation and Building of the Fatherland"
+    },
+    {
+      "year": 1986,
+      "motto_en": "Creation and Building of the Kingdom of Heaven",
+      "image": "/assets/built/motto/1986.webp",
+      "details": "The motto for 1986 is \"Creating and building the kingdom of heaven.\" Last year it was \"Creating and building the fatherland.\" There is a formula for establishing the kingdom of heaven. This formula requires that we deal with the Cain and Abel problem that has existed throughout the course of history. If Adam and Eve had not fallen, they would have become the first son and first daughter and the direct children of God. But because of the Fall, the position of the first child was lost. After the Fall, Satan claimed the position of the first son. Hence, God has been in the position where He could only exercise sovereignty over the second son. Therefore, the first-son position must be reclaimed, but it cannot be recovered by force. Since God lost the authority of the first son because of Satan's love, in order to reclaim it, heaven's people must have greater love than Satan's love. Without that, there is no way to take back the authority of the first son. All the types of love in the fallen world, whether the love of parents or the love of older siblings, belong to Satan's realm. Love in Satan's realm is love that belongs to the realm of the first son. To this day, the love of people who belong to the world, whether it be the love of husband and wife, of parents or of children, is love that belongs to the fallen realm, the first-son realm. Because of this, in order to go over this fallen realm of the first son, we must carry out restoration through indemnity from the position of the younger son and reverse the positions. Indemnity cannot be paid without making the proper conditions. A price must always be paid. (137-014, 1986/01/01)"
+    },
+    {
+      "year": 1987,
+      "motto_en": "The Unification of the Fatherland",
+      "details": "The Unification Church motto for 1987 is \"Unification of the fatherland.\" You should not think vaguely about the unification of the fatherland. If we were to say that this is a world-level or cosmic-level motto, that would be a big problem. The formula to follow this path can be expressed like this: the individual must win over the family, the family must win over the tribe, the tribe the people, the people the nation, the nation the world and the world the cosmos. I have been demonstrating this formula in the providential course of the Unification Church. The perfection of the individual and the perfection of the family go hand in hand. For an individual to attain perfection, he or she must overcome the struggle between mind and body. From an internal perspective, the mind and body must overcome their struggle and create unity. Only then will the individual be able to influence positively the external realm of the family. This is why we have to resolve the struggle between mind and body before we can advance to the family level. Likewise, we have to resolve all the difficulties within the family before we can advance to the tribal level. Again, unless we resolve all the issues and make unity within the tribe, we cannot advance to the level of a people. With this in mind, does the motto for 1987, \"Unification of the fatherland,\" refer to the national level or the world level? If we can deal with the inner aspects of America's national character that have become a problem, then we can advance to the world level. When we step forward and resolve all the suffering of the nation, we will then be able to digest the situations of the world. This is what it means to follow the formula course. Likewise, when we say we are going beyond the worldwide level to the cosmic level, it means we must first resolve all the problems on earth. Once we have overcome all the problems of the regions on earth, then we can digest all the problems in the spirit world and finally enter the realm of God's love. (161-093, 1987/01/04)"
+    },
+    {
+      "year": 1988,
+      "motto_en": "The Unification of the Fatherland",
+      "image": "/assets/built/motto/1988.webp"
+    },
+    {
+      "year": 1989,
+      "motto_en": "The Unification of Korea"
+    },
+    {
+      "year": 1990,
+      "motto_en": "The Unification of My Country"
+    },
+    {
+      "year": 1991,
+      "motto_en": "The Unification of My Country",
+      "image": "/assets/built/motto/1991.webp"
+    },
+    {
+      "year": 1992,
+      "motto_en": "The Unification of the New Nation",
+      "image": "/assets/built/motto/1992.webp"
+    },
+    {
+      "year": 1993,
+      "motto_en": "The New Family and the Unified Fatherland"
+    },
+    {
+      "year": 1994,
+      "motto_en": "The Safe Settlement of True Parents and the Completed Testament Age"
+    },
+    {
+      "year": 1995,
+      "motto_en": "Let Us Inherit True Parents' Realm of Victory."
+    },
+    {
+      "year": 1996,
+      "motto_en": "Let Us Be Proud of True Parents and Love True Parents."
+    },
+    {
+      "year": 1997,
+      "motto_en": "Let Us Be Proud of True Parents and Love True Parents By Accomplishing The 3.6 Million Couples Blessing.",
+      "image": "/assets/built/motto/1997.webp"
+    },
+    {
+      "year": 1998,
+      "motto_en": "To be proud of and to love True God absolutely is to complete the 360 Million Couples Blessing and eradicate the blood lineage of the satanic world."
+    },
+    {
+      "year": 1999,
+      "motto_en": "The Cosmic Expansion of the True Blessing And The Rooting Out of The Satanic Blood Lineage.",
+      "image": "/assets/built/motto/1999.webp"
+    },
+    {
+      "year": 2000,
+      "motto_en": "The Cosmic Expansion of True Love is the Perfection of the New Millennial Kingom of God.",
+      "image": "/assets/built/motto/2000.webp"
+    },
+    {
+      "year": 2001,
+      "motto_en": "May the absolute, unique, unchanging and eternal will, which is the subject nature of true love, be accomplished through the liberated Parents of Heaven and Earth and children uniting in one mind and one body.",
+      "image": "/assets/built/motto/2001.webp"
+    },
+    {
+      "year": 2002,
+      "motto_en": "The complete settlement of Cheon Il Guk of freedom, peace and happiness, which is the ideal of the parents of Heaven and Earth-Mansei!",
+      "image": "/assets/built/motto/2002.webp"
+    },
+    {
+      "year": 2003,
+      "motto_en": "Let our family perfect a true family of filial children, patriots, saints and divine sons and daughters in Cheon Il Guk, through true love",
+      "motto_ko": "참사랑으로 우리가정은 천일국의 효자 충신 성인 성자의 참가정을 완성하소서",
+      "image": "/assets/built/motto/2003.webp"
+    },
+    {
+      "year": 2004,
+      "motto_en": "The Proclamation of God's Fatherland and the Era of the Peace Kingdom",
+      "image": "/assets/built/motto/2004.webp"
+    },
+    {
+      "year": 2005,
+      "motto_en": "Let Us Complete the Ideal of the Internal and External Cheon Il Guk",
+      "motto_ko": "하늘의 전통을 상속받고 심정문화를 확산하자",
+      "image": "/assets/built/motto/2005.webp"
+    },
+    {
+      "year": 2006,
+      "motto_en": "The Era of the Completed Settlement of the Model Providence for the Ideal of Peace in Heaven and on Earth",
+      "motto_ko": "천주평화이상  모델섭리 안착시대",
+      "image": "/assets/built/motto/2006.webp"
+    },
+    {
+      "year": 2007,
+      "motto_en": "Eog Mansei for the Sacred Era of Peace in the Cheon Il Guk Realm of Cosmic Peace",
+      "motto_ko": " 천주평화 천일국 태평성대 억만세 (天宙平和 天一國  太平聖代 億萬歲)",
+      "image": "/assets/built/motto/2007.webp"
+    },
+    {
+      "year": 2008,
+      "motto_en": "Manse for the Ssang Hab Jubilee years of the 7th and 8th years of Cheon Il Guk of Universal Peace Federation",
+      "motto_ko": " 천주평화연합 천일국 쌍합 칠팔희년 만세 (天宙平和聯合 天一國 双合 七八禧年 萬歲)",
+      "image": "/assets/built/motto/2008.webp"
+    },
+    {
+      "year": 2009,
+      "motto_en": "The era of proclaiming the victory of absolute sexual ethics, the right of true love, true life and true lineage in the realm of the Cosmic Sabbath of the Parents of Heaven and Earth",
+      "motto_ko": " 천지부모천주안식권절대성참사랑참생명참혈통권승리선포시대 天地父母天宙安息圈絶對性참사랑참生命참血統權勝利宣布時代",
+      "image": "/assets/built/motto/2009.webp"
+    },
+    {
+      "year": 2010,
+      "motto_en": "Mansei for oneness with True Parents' pure heart and with all their victories in the realm of the Cosmic Sabbath centered on true love.",
+      "motto_ko": "참사랑 천주안식권 청심일만승일 만세 (참사랑 天宙安息圈 淸心一萬勝一 萬歲)",
+      "image": "/assets/built/motto/2010.webp"
+    },
+    {
+      "year": 2011,
+      "motto_en": "Mansei for Cheon Il Guk, settled through harmony between children and the Parents who have heaven’s heart, whose harmony brings final and ultimate oneness to heaven and earth",
+      "motto_ko": "천정부모 지화자녀 정착종최 일체완료 천주정착 천일국만세 (天情父母 地和子女 定着終最 一体完了 天宙定着 天一國萬歲)",
+      "image": "/assets/built/motto/2011.webp"
+    },
+    {
+      "year": 2012,
+      "motto_en": "Let us become true owners of Cheon Il Guk who practice true love in resemblance to our Creator, the Heavenly Parent!",
+      "motto_ko": " 천지인 참부모 승리 해방 완성시대 (天地人참父母勝利解放完成時代)",
+      "image": "/assets/built/motto/2012.webp"
+    },
+    {
+      "year": 2013,
+      "motto_en": "Era of the Victory, Liberation and Completion of the True Parents of Heaven, Earth and Humankind",
+      "image": "/assets/built/motto/2013.webp"
+    },
+    {
+      "year": 2014,
+      "motto_en": "Let us become true owners of Cheon Il Guk who practice true love in resemblance to our Creator, the Heavenly Parent!",
+      "motto_ko": "창조주 하늘부모님을 닮은 참사랑을 실천하는 천일국의 참주인이 되자!",
+      "details": "The motto that we will carry out until 2020 is \"Let us become true owners of Cheon Il Guk who practice true love, in resemblance to our Creator, the Heavenly Parent.\" Do not forget Heavenly Parent in your daily life. And as long as you are living on this earth, you must maintain well this earthly world made by Heavenly Parent, our Creator. Accordingly, your mission is to witness to people and educate them. This means to restore fallen human beings. The work we have to do is witnessing. Next, we must take care in maintaining the beautiful natural world that our Heavenly Parent created by investing all His power. Please be aware how much damage is being done to nature all over the world due to human ignorance. We should not give this low priority just because it does not affect us directly. We must address this human ignorance and protect and preserve the environment. We must revive the sea and the land that are dying. We are the ones who have to do this. Accordingly, we need to carry the consciousness of true owners like our Heavenly Parent, and then we must unite among ourselves and cooperate with each other to fulfill this task by all means. The person who does not have a sense of responsibility for all this work will drift away. Until 2020, we must not forget even for one day, even for one hour, even for one minute, even for one second, that we are the true owners who have made it our task to restore this nation and the world. Let us think and think again, using the wisdom of heaven, and let us bring change by mobilizing all of humanity's abilities and resources. Unless we bring change to the world, we will have no future. We are one unified family. Wherever we are, we must accomplish this goal with one heart and one purpose. That is why I am saying that you must become true filial sons, true filial daughters and true loyal patriots, who year by year can bring greater victories so that our Heavenly Parent, the Creator, will rejoice in those results and trust us all the more. Don't be a person who just comes and goes as you are. You must behave in a responsible way, with a sense of ownership for everything, by taking responsibility for every aspect. (True Mother, 2014/01/01)"
+    },
+    {
+      "year": 2019,
+      "motto_en": "The Opening of the Era to Firmly Establish the Heavenly Unified Korea",
+      "image": "/assets/built/motto/2019.webp"
+    },
+    {
+      "year": 2026,
+      "motto_en": "In the 14th year of Cheon Il Guk, when we attend the Creator Heavenly Parent substantially, let us, the blessed families around the world, become true sons and daughters of Cheon Il Guk who fulfill our responsibility as the chosen people in unity with True Parents!",
+      "motto_ko": "창조주 하늘부모님을 실체로 모시고 사는 천일국 13년 전 세계 축복가정들은 참부모와 하나된 선민으로서 책임을 다하는 천일국의 참자녀가 되자!",
+      "details": " As we enter the Year of the Blue Snake, we know the pain from 120 years ago In the Bible, a serpent symbolizes Satan. However, the snake is also called a wise animal. After 6,000 years of Heaven providence and of human history, all blessed families of the Unification movement have received, through True Parents, Heaven’s magnificent grace of Cheon Il Guk where we can attend Heavenly Parent in substantial ways on earth. We must be grateful. As blessed families, we must fulfill our responsibility."
+    }
+  ]
+}

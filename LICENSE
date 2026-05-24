@@ -1,6 +1,6 @@
-MIT License
+MIT License (code)
 
-Copyright (c) 2026 Jon
+Copyright (c) 2026 True Parents Legacy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,35 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
+
+DATA LICENSE — Creative Commons Attribution-ShareAlike 4.0 International
+
+The dataset files in this repository — including `motto.json`, any derived data
+tables, JSON exports, and the textual content of the mottos — are licensed
+separately under the Creative Commons Attribution-ShareAlike 4.0 International
+License (CC BY-SA 4.0).
+
+Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Summary:
+  • You may share — copy and redistribute the data in any medium or format
+  • You may adapt — remix, transform, and build upon the data for any purpose,
+    even commercially
+  • Under the following terms:
+      - Attribution: you must give appropriate credit to "True Parents Legacy
+        archive (tplegacy.net)" and indicate if changes were made
+      - ShareAlike: if you remix, transform, or build upon the data, you must
+        distribute your contributions under the same license
+
+Note on banner images:
+  The image files referenced via the `image` field in motto.json (paths under
+  /assets/built/motto/) are NOT included in this repository. They remain hosted
+  on tplegacy.net and are subject to the True Parents Legacy archive's own
+  terms. The image PATHS in the dataset are CC BY-SA 4.0 (as data), but the
+  image content itself follows its original publisher's terms.
+
+Citation:
+  True Parents Legacy (2026). Mottos of True Parents — annual guidance dataset,
+  v1.0.0. https://jon-tplegacy.github.io/Mottos-of-True-Parents/. CC BY-SA 4.0.
