@@ -2,7 +2,7 @@
 
 > Open, machine-readable corpus of the annual mottos proclaimed by True Parents Sun Myung Moon and Hak Ja Han Moon between 1960 and 2026 — yearly providential themes of the Family Federation for World Peace and Unification (Unification Movement).
 
-[**📥 Download motto.json**](./motto.json) · [**🌐 Live demo**](https://jon-tplegacy.github.io/Mottos-of-True-Parents/) · [**📅 Interactive site**](https://tplegacy.net/mottos/)
+[**📥 Download motto.json**](./motto.json) · [**🌐 Live demo**](https://jon-tplegacy.github.io/Mottos-of-True-Parents/) · [**📅 Interactive site**]([https://tplegacy.net/mottos/](https://tplegacy.net/mottos-of-true-parents/))
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/Data-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](./LICENSE)
